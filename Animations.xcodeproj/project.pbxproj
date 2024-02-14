@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D11961882B7BDAA900624DC8 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D11961872B7BDAA900624DC8 /* AddView.swift */; };
 		D1DD51382B77D3D4009830B4 /* AnimationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1DD51372B77D3D4009830B4 /* AnimationsApp.swift */; };
 		D1DD513A2B77D3D4009830B4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1DD51392B77D3D4009830B4 /* ContentView.swift */; };
 		D1DD513C2B77D3D6009830B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1DD513B2B77D3D6009830B4 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D11961872B7BDAA900624DC8 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 		D1DD51342B77D3D4009830B4 /* Animations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1DD51372B77D3D4009830B4 /* AnimationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsApp.swift; sourceTree = "<group>"; };
 		D1DD51392B77D3D4009830B4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -51,6 +53,7 @@
 		D1DD51362B77D3D4009830B4 /* Animations */ = {
 			isa = PBXGroup;
 			children = (
+				D11961872B7BDAA900624DC8 /* AddView.swift */,
 				D1DD51372B77D3D4009830B4 /* AnimationsApp.swift */,
 				D1DD51392B77D3D4009830B4 /* ContentView.swift */,
 				D1DD513B2B77D3D6009830B4 /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			files = (
 				D1DD513A2B77D3D4009830B4 /* ContentView.swift in Sources */,
 				D1DD51382B77D3D4009830B4 /* AnimationsApp.swift in Sources */,
+				D11961882B7BDAA900624DC8 /* AddView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
